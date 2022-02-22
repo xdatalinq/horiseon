@@ -1,3 +1,4 @@
+/* Body Styles Start */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,7 +8,9 @@
 body {
     background-color: #d9dcd6;
 }
+/* Body Styles End */
 
+/* Header Styles Start */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -49,7 +52,9 @@ a {
 p {
     font-size: 16px;
 }
+/* Header Styles End */
 
+/* Hero Style Start */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,7 +63,9 @@ p {
     background-size: cover;
     background-position: center;
 }
+/* Hero Style End */
 
+/* Content Style Start */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -75,6 +82,7 @@ p {
     margin-left: 20px;
 }
 
+/* Bennefit Section Styles */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -133,7 +141,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* Bennefits Styles End */
 
+/* Content Styles Continued */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -187,7 +197,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* Content Style End */
 
+/* Footer Style Start */
 .footer {
     padding: 30px;
     clear: both;
@@ -198,3 +210,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/* Footer Style End */
