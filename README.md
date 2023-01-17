@@ -1,6 +1,6 @@
 # Horiseon
 
-Code Re-factor, enhancements and updates to client site.
+
 
 Repo: https://github.com/xdatalinq/horiseon
 Live: https://xdatalinq.github.io/horiseon
