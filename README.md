@@ -3,21 +3,21 @@
   
   ## Table of Contents
   * [Description](#description)
-  * [Live](#live)
   * [Screenshot](#screenshot)
+  * [Live](#live)
   * [Repository](#repository)
   * [Contact](#contact)
   * [License](#license)
 
   ## Description
-  Code Re-factor, enhancements and updates to mock client site. See commit history for details. 
-  
-  ## Live
-  Live: https://xdatalinq.github.io/horiseon
+  Code re-factor, enhancements and updates to mock client site. See commit history for details. 
   
   ## Screenshot
   ![mockup](https://user-images.githubusercontent.com/89672040/155230233-e19b8daa-6cfa-4e9c-a57d-2f74a3c58cda.png)
  
+  ## Live
+  Live: https://xdatalinq.github.io/horiseon
+  
   ## Repository
   Repo: https://github.com/xdatalinq/horiseon
   
