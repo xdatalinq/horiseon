@@ -10,7 +10,7 @@
   * [License](#license)
 
   ## Description
-  Code re-factor, enhancements and updates to mock client site. See commit history for details. 
+  Code re-factor, enhancements and updates to client site. See commit history for details. 
   
   ## Screenshot
   ![mockup](https://user-images.githubusercontent.com/89672040/155230233-e19b8daa-6cfa-4e9c-a57d-2f74a3c58cda.png)
